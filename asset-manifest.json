@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mypotfolio/static/css/main.f00cb951.css",
+    "main.js": "/mypotfolio/static/js/main.a02e5d9e.js",
+    "static/media/mim.jpg": "/mypotfolio/static/media/mim.869d161255a00c669f2a.jpg",
+    "static/media/me.jpg": "/mypotfolio/static/media/me.b522183c3e2eb745ab9e.jpg",
+    "static/media/img5.png": "/mypotfolio/static/media/img5.73657125084df8b4006f.png",
+    "static/media/MyCV.pdf": "/mypotfolio/static/media/MyCV.cdea9b6214e7b1826006.pdf",
+    "static/media/img2.jpg": "/mypotfolio/static/media/img2.52faf734f735b315e724.jpg",
+    "static/media/img1.jpg": "/mypotfolio/static/media/img1.9ac8b24c4eef538c9993.jpg",
+    "static/media/img6.jpg": "/mypotfolio/static/media/img6.e5e528b2847e1305cc11.jpg",
+    "static/media/img3.jpg": "/mypotfolio/static/media/img3.77eeae322a60c1f4aed2.jpg",
+    "static/media/avatar2.png": "/mypotfolio/static/media/avatar2.21519c3b74535cd1ba23.png",
+    "static/media/img4.jpg": "/mypotfolio/static/media/img4.97ac4945c9dd63c14035.jpg",
+    "index.html": "/mypotfolio/index.html",
+    "main.f00cb951.css.map": "/mypotfolio/static/css/main.f00cb951.css.map",
+    "main.a02e5d9e.js.map": "/mypotfolio/static/js/main.a02e5d9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f00cb951.css",
+    "static/js/main.a02e5d9e.js"
+  ]
+}
